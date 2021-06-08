@@ -1,0 +1,12 @@
+D:\dev.proj\DiplomaWebUI\Diploma.Services\bin\Debug\netstandard2.0\Diploma.Services.deps.json
+D:\dev.proj\DiplomaWebUI\Diploma.Services\bin\Debug\netstandard2.0\Diploma.Services.dll
+D:\dev.proj\DiplomaWebUI\Diploma.Services\bin\Debug\netstandard2.0\Diploma.Services.pdb
+D:\dev.proj\DiplomaWebUI\Diploma.Services\bin\Debug\netstandard2.0\Diploma.Data.dll
+D:\dev.proj\DiplomaWebUI\Diploma.Services\bin\Debug\netstandard2.0\Diploma.Data.pdb
+D:\dev.proj\DiplomaWebUI\Diploma.Services\obj\Debug\netstandard2.0\Diploma.Services.csprojAssemblyReference.cache
+D:\dev.proj\DiplomaWebUI\Diploma.Services\obj\Debug\netstandard2.0\Diploma.Services.AssemblyInfoInputs.cache
+D:\dev.proj\DiplomaWebUI\Diploma.Services\obj\Debug\netstandard2.0\Diploma.Services.AssemblyInfo.cs
+D:\dev.proj\DiplomaWebUI\Diploma.Services\obj\Debug\netstandard2.0\Diploma.Services.csproj.CoreCompileInputs.cache
+D:\dev.proj\DiplomaWebUI\Diploma.Services\obj\Debug\netstandard2.0\Diploma.Services.csproj.CopyComplete
+D:\dev.proj\DiplomaWebUI\Diploma.Services\obj\Debug\netstandard2.0\Diploma.Services.dll
+D:\dev.proj\DiplomaWebUI\Diploma.Services\obj\Debug\netstandard2.0\Diploma.Services.pdb

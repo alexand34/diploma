@@ -1,0 +1,9 @@
+D:\dev.proj\DiplomaWebUI\Diploma.Data\bin\Debug\netstandard2.0\Diploma.Data.deps.json
+D:\dev.proj\DiplomaWebUI\Diploma.Data\bin\Debug\netstandard2.0\Diploma.Data.dll
+D:\dev.proj\DiplomaWebUI\Diploma.Data\bin\Debug\netstandard2.0\Diploma.Data.pdb
+D:\dev.proj\DiplomaWebUI\Diploma.Data\obj\Debug\netstandard2.0\Diploma.Data.csprojAssemblyReference.cache
+D:\dev.proj\DiplomaWebUI\Diploma.Data\obj\Debug\netstandard2.0\Diploma.Data.AssemblyInfoInputs.cache
+D:\dev.proj\DiplomaWebUI\Diploma.Data\obj\Debug\netstandard2.0\Diploma.Data.AssemblyInfo.cs
+D:\dev.proj\DiplomaWebUI\Diploma.Data\obj\Debug\netstandard2.0\Diploma.Data.csproj.CoreCompileInputs.cache
+D:\dev.proj\DiplomaWebUI\Diploma.Data\obj\Debug\netstandard2.0\Diploma.Data.dll
+D:\dev.proj\DiplomaWebUI\Diploma.Data\obj\Debug\netstandard2.0\Diploma.Data.pdb
